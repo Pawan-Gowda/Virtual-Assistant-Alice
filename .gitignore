@@ -1,0 +1,17 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+.venv/
+venv/
+
+# Environment variables (secrets)
+.env
+
+# VS Code settings (optional)
+.vscode/
+
+# Audio files
+*.mp3
+*.wav
